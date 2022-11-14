@@ -1,0 +1,1679 @@
+[
+  {
+    "code": "aa",
+    "name": "Afar",
+    "native": "Afar"
+  },
+  {
+    "code": "ab",
+    "name": "Abkhazian",
+    "native": "Аҧсуа"
+  },
+  {
+    "code": "af",
+    "name": "Afrikaans",
+    "native": "Afrikaans"
+  },
+  {
+    "code": "ak",
+    "name": "Akan",
+    "native": "Akana"
+  },
+  {
+    "code": "am",
+    "name": "Amharic",
+    "native": "አማርኛ"
+  },
+  {
+    "code": "an",
+    "name": "Aragonese",
+    "native": "Aragonés"
+  },
+  {
+    "code": "ar",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1
+  },
+  {
+    "code": "ar-AE",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "United Arab Emirates",
+    "regionNative": "الإمارات العربية المتحدة"
+  },
+  {
+    "code": "ar-BH",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Bahrain",
+    "regionNative": "البحرين"
+  },
+  {
+    "code": "ar-DZ",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Algeria",
+    "regionNative": "الجزائر"
+  },
+  {
+    "code": "ar-EG",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Egypt",
+    "regionNative": "مصر"
+  },
+  {
+    "code": "ar-IL",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Israel",
+    "regionNative": "إسرائيل"
+  },
+  {
+    "code": "ar-IQ",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Iraq",
+    "regionNative": "العراق"
+  },
+  {
+    "code": "ar-MA",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Morocco",
+    "regionNative": "المغرب"
+  },
+  {
+    "code": "ar-JO",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Jordan",
+    "regionNative": "الأردن"
+  },
+  {
+    "code": "ar-KW",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Kuwait",
+    "regionNative": "الكويت"
+  },
+  {
+    "code": "ar-LB",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Lebanon",
+    "regionNative": "لبنان"
+  },
+  {
+    "code": "ar-OM",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Oman",
+    "regionNative": "سلطنة عمان"
+  },
+  {
+    "code": "ar-PS",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "State of Palestine",
+    "regionNative": "دولة فلسطين"
+  },
+  {
+    "code": "ar-QA",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Qatar",
+    "regionNative": "دولة قطر"
+  },
+  {
+    "code": "ar-SA",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Saudi Arabia",
+    "regionNative": "المملكة العربية السعودية"
+  },
+  {
+    "code": "ar-TN",
+    "name": "Arabic",
+    "native": "العربية",
+    "rtl": 1,
+    "region": "Tunisia",
+    "regionNative": "تونس"
+  },
+  {
+    "code": "as",
+    "name": "Assamese",
+    "native": "অসমীয়া"
+  },
+  {
+    "code": "av",
+    "name": "Avar",
+    "native": "Авар"
+  },
+  {
+    "code": "ay",
+    "name": "Aymara",
+    "native": "Aymar"
+  },
+  {
+    "code": "az",
+    "name": "Azerbaijani",
+    "native": "Azərbaycanca / آذربايجان"
+  },
+  {
+    "code": "ba",
+    "name": "Bashkir",
+    "native": "Башҡорт"
+  },
+  {
+    "code": "be",
+    "name": "Belarusian",
+    "native": "Беларуская"
+  },
+  {
+    "code": "bg",
+    "name": "Bulgarian",
+    "native": "Български"
+  },
+  {
+    "code": "bh",
+    "name": "Bihari",
+    "native": "भोजपुरी"
+  },
+  {
+    "code": "bi",
+    "name": "Bislama",
+    "native": "Bislama"
+  },
+  {
+    "code": "bm",
+    "name": "Bambara",
+    "native": "Bamanankan"
+  },
+  {
+    "code": "bn",
+    "name": "Bengali",
+    "native": "বাংলা"
+  },
+  {
+    "code": "bn-IN",
+    "name": "Bengali",
+    "native": "বাংলা"
+    "region": "India",
+    "regionNative": "ভারত"
+  },
+  {
+    "code": "bn-BD",
+    "name": "Bengali",
+    "native": "বাংলা"
+    "region": "Bangladesh",
+    "regionNative": "বাংলাদেশ"
+  },
+  {
+    "code": "bo",
+    "name": "Tibetan",
+    "native": "བོད་ཡིག / Bod skad"
+  },
+  {
+    "code": "br",
+    "name": "Breton",
+    "native": "Brezhoneg"
+  },
+  {
+    "code": "bs",
+    "name": "Bosnian",
+    "native": "Bosanski"
+  },
+  {
+    "code": "ca",
+    "name": "Catalan",
+    "native": "Català"
+  },
+  {
+    "code": "ce",
+    "name": "Chechen",
+    "native": "Нохчийн"
+  },
+  {
+    "code": "ch",
+    "name": "Chamorro",
+    "native": "Chamoru"
+  },
+  {
+    "code": "co",
+    "name": "Corsican",
+    "native": "Corsu"
+  },
+  {
+    "code": "cr",
+    "name": "Cree",
+    "native": "Nehiyaw"
+  },
+  {
+    "code": "cs-CZ",
+    "name": "Czech",
+    "native": "Česky"
+  },
+  {
+    "code": "cu",
+    "name": "Old Church Slavonic / Old Bulgarian",
+    "native": "словѣньскъ / slověnĭskŭ"
+  },
+  {
+    "code": "cv",
+    "name": "Chuvash",
+    "native": "Чăваш"
+  },
+  {
+    "code": "cy",
+    "name": "Welsh",
+    "native": "Cymraeg"
+  },
+  {
+    "code": "da",
+    "name": "Danish",
+    "native": "Dansk"
+  },
+  {
+    "code": "de-DE",
+    "name": "German",
+    "native": "Deutsch"
+  },
+  {
+    "code": "de-AT",
+    "name": "German",
+    "native": "Deutsch",
+    "region": "Austria",
+    "regionNative": "Österreich"
+  },
+  {
+    "code": "de-BE",
+    "name": "German",
+    "native": "Deutsch",
+    "region": "Belgium",
+    "regionNative": "Belgien"
+  },
+  {
+    "code": "de-IT",
+    "name": "German",
+    "native": "Deutsch",
+    "region": "Italy",
+    "regionNative": "Italien"
+  },
+  {
+    "code": "de-LI",
+    "name": "German",
+    "native": "Deutsch",
+    "region": "Liechtenstein",
+    "regionNative": "Liechtenstein"
+  },
+  {
+    "code": "de-LU",
+    "name": "German",
+    "native": "Deutsch",
+    "region": "Luxembourg",
+    "regionNative": "Luxemburg"
+  },
+  {
+    "code": "de-CH",
+    "name": "German",
+    "native": "Deutsch",
+    "region": "Switzerland",
+    "regionNative": "Schweiz"
+  },
+  {
+    "code": "dv",
+    "name": "Divehi",
+    "native": "ދިވެހިބަސް",
+    "rtl": 1
+  },
+  {
+    "code": "dz",
+    "name": "Dzongkha",
+    "native": "ཇོང་ཁ"
+  },
+  {
+    "code": "ee",
+    "name": "Ewe",
+    "native": "Ɛʋɛ"
+  },
+  {
+    "code": "el-CY",
+    "name": "Greek",
+    "native": "Ελληνικά",
+    "region": "Cyprus",
+    "regionNative": "Κυπριακή Δημοκρατία"
+  },
+  {
+    "code": "el-GR",
+    "name": "Greek",
+    "native": "Ελληνικά",
+    "region": "Greece",
+    "regionNative": "Ελληνική Δημοκρατία"
+  },
+  {
+    "code": "en",
+    "name": "English",
+    "native": "English"
+  },
+  {
+    "code": "en-AU",
+    "name": "English",
+    "native": "English",
+    "region": "Australia",
+    "regionNative": "Australia"
+  },
+  {
+    "code": "en-CA",
+    "name": "English",
+    "native": "English",
+    "region": "Canada",
+    "regionNative": "Canada"
+  },
+  {
+    "code": "en-CN",
+    "name": "English",
+    "native": "English",
+    "region": "China",
+    "regionNative": "中国"
+  },
+  {
+    "code": "en-GB",
+    "name": "English",
+    "native": "English",
+    "region": "Great Britain",
+    "regionNative": "Great Britain"
+  },
+  {
+    "code": "en-GH",
+    "name": "English",
+    "native": "English",
+    "region": "Ghana",
+    "regionNative": "Ghana"
+  },
+  {
+    "code": "en-IE",
+    "name": "English",
+    "native": "English",
+    "region": "Ireland",
+    "regionNative": "Ireland"
+  },
+  {
+    "code": "en-IN",
+    "name": "English",
+    "native": "English",
+    "region": "India",
+    "regionNative": "India"
+  },
+  {
+    "code": "en-KE",
+    "name": "English",
+    "native": "English",
+    "region": "Kenya",
+    "regionNative": "Kenya"
+  },
+  {
+    "code": "en-NG",
+    "name": "English",
+    "native": "English",
+    "region": "Nigeria",
+    "regionNative": "Nigeria"
+  },
+  {
+    "code": "en-NZ",
+    "name": "English",
+    "native": "English",
+    "region": "New Zealand",
+    "regionNative": "New Zealand"
+  },
+  {
+    "code": "en-PH",
+    "name": "English",
+    "native": "English",
+    "region": "Philippines",
+    "regionNative": "Philippines"
+  },
+  {
+    "code": "en-SG",
+    "name": "English",
+    "native": "English",
+    "region": "Singapore",
+    "regionNative": "Singapore"
+  },
+  {
+    "code": "en-SK",
+    "name": "English",
+    "native": "Anglicky",
+    "region": "Slovakia",
+    "regionNative": "Slovensko"
+  },
+  {
+    "code": "en-TW",
+    "name": "English",
+    "native": "English",
+    "region": "Taiwan",
+    "regionNative": "Taiwan"
+  },
+  {
+    "code": "en-TZ",
+    "name": "English",
+    "native": "English",
+    "region": "Tanzania",
+    "regionNative": "Tanzania"
+  },
+  {
+    "code": "en-US",
+    "name": "English",
+    "native": "English",
+    "region": "United States",
+    "regionNative": "United States"
+  },
+  {
+    "code": "en-ZA",
+    "name": "English",
+    "native": "English",
+    "region": "South Africa",
+    "regionNative": "South Africa"
+  },
+  {
+    "code": "eo",
+    "name": "Esperanto",
+    "native": "Esperanto"
+  },
+  {
+    "code": "es-ES",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Spain",
+    "regionNative": "España"
+  },
+  {
+    "code": "es-AR",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Argentina",
+    "regionNative": "Argentina"
+  },
+  {
+    "code": "es-BO",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Bolivia",
+    "regionNative": "Bolivia"
+  },
+  {
+    "code": "es-CL",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Chile",
+    "regionNative": "Chile"
+  },
+  {
+    "code": "es-CO",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Colombia",
+    "regionNative": "Colombia"
+  },
+  {
+    "code": "es-CR",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Costa Rica",
+    "regionNative": "Costa Rica"
+  },
+  {
+    "code": "es-DO",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Dominican Republic",
+    "regionNative": "República Dominicana"
+  },
+  {
+    "code": "es-EC",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Ecuador",
+    "regionNative": "Ecuador"
+  },
+  {
+    "code": "es-GT",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Guatemala",
+    "regionNative": "Guatemala"
+  },
+  {
+    "code": "es-HN",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Honduras",
+    "regionNative": "Honduras"
+  },
+  {
+    "code": "es-MX",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Mexico",
+    "regionNative": "México"
+  },
+  {
+    "code": "es-NI",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Nicaragua",
+    "regionNative": "Nicaragua"
+  },
+  {
+    "code": "es-PA",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Panama",
+    "regionNative": "Panamá"
+  },
+  {
+    "code": "es-PE",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Peru",
+    "regionNative": "Perú"
+  },
+  {
+    "code": "es-PR",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Puerto Rico",
+    "regionNative": "Puerto Rico"
+  },
+  {
+    "code": "es-PY",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Paraguay",
+    "regionNative": "Paraguay"
+  },
+  {
+    "code": "es-SV",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "El Salvador",
+    "regionNative": "El Salvador"
+  },
+  {
+    "code": "es-US",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "United States",
+    "regionNative": "United States"
+  },
+  {
+    "code": "es-UY",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Uruguay",
+    "regionNative": "Uruguay"
+  },
+  {
+    "code": "es-VE",
+    "name": "Spanish",
+    "native": "Español",
+    "region": "Venezuela",
+    "regionNative": "Venezuela"
+  },
+  {
+    "code": "et",
+    "name": "Estonian",
+    "native": "Eesti"
+  },
+  {
+    "code": "eu",
+    "name": "Basque",
+    "native": "Euskara"
+  },
+  {
+    "code": "fa",
+    "name": "Persian",
+    "native": "فارسی",
+    "rtl": 1
+  },
+  {
+    "code": "ff",
+    "name": "Peul",
+    "native": "Fulfulde"
+  },
+  {
+    "code": "fi",
+    "name": "Finnish",
+    "native": "Suomi"
+  },
+  {
+    "code": "fj",
+    "name": "Fijian",
+    "native": "Na Vosa Vakaviti"
+  },
+  {
+    "code": "fo",
+    "name": "Faroese",
+    "native": "Føroyskt"
+  },
+  {
+    "code": "fr-FR",
+    "name": "French",
+    "native": "Français",
+    "region": "France",
+    "regionNative": "France"
+  },
+  {
+    "code": "fr-CA",
+    "name": "French",
+    "native": "Français",
+    "region": "Canada",
+    "regionNative": "Canada"
+  },
+  {
+    "code": "fy",
+    "name": "West Frisian",
+    "native": "Frysk"
+  },
+  {
+    "code": "ga",
+    "name": "Irish",
+    "native": "Gaeilge"
+  },
+  {
+    "code": "gd",
+    "name": "Scottish Gaelic",
+    "native": "Gàidhlig"
+  },
+  {
+    "code": "gl",
+    "name": "Galician",
+    "native": "Galego"
+  },
+  {
+    "code": "gn",
+    "name": "Guarani",
+    "native": "Avañe'ẽ"
+  },
+  {
+    "code": "gu",
+    "name": "Gujarati",
+    "native": "ગુજરાતી"
+  },
+  {
+    "code": "gv",
+    "name": "Manx",
+    "native": "Gaelg"
+  },
+  {
+    "code": "ha",
+    "name": "Hausa",
+    "native": "هَوُسَ",
+    "rtl": 1
+  },
+  {
+    "code": "he",
+    "name": "Hebrew",
+    "native": "עברית",
+    "rtl": 1
+  },
+  {
+    "code": "hi",
+    "name": "Hindi",
+    "native": "हिन्दी"
+  },
+  {
+    "code": "ho",
+    "name": "Hiri Motu",
+    "native": "Hiri Motu"
+  },
+  {
+    "code": "hr",
+    "name": "Croatian",
+    "native": "Hrvatski"
+  },
+  {
+    "code": "ht",
+    "name": "Haitian",
+    "native": "Krèyol ayisyen"
+  },
+  {
+    "code": "hu",
+    "name": "Hungarian",
+    "native": "Magyar"
+  },
+  {
+    "code": "hy",
+    "name": "Armenian",
+    "native": "Հայերեն"
+  },
+  {
+    "code": "hz",
+    "name": "Herero",
+    "native": "Otsiherero"
+  },
+  {
+    "code": "ia",
+    "name": "Interlingua",
+    "native": "Interlingua"
+  },
+  {
+    "code": "id",
+    "name": "Indonesian",
+    "native": "Bahasa Indonesia"
+  },
+  {
+    "code": "ie",
+    "name": "Interlingue",
+    "native": "Interlingue"
+  },
+  {
+    "code": "ig",
+    "name": "Igbo",
+    "native": "Igbo"
+  },
+  {
+    "code": "ii",
+    "name": "Sichuan Yi",
+    "native": "ꆇꉙ / 四川彝语"
+  },
+  {
+    "code": "ik",
+    "name": "Inupiak",
+    "native": "Iñupiak"
+  },
+  {
+    "code": "io",
+    "name": "Ido",
+    "native": "Ido"
+  },
+  {
+    "code": "is",
+    "name": "Icelandic",
+    "native": "Íslenska"
+  },
+  {
+    "code": "it",
+    "name": "Italian",
+    "native": "Italiano"
+  },
+  {
+    "code": "it-CH",
+    "name": "Italian",
+    "native": "Italiano",
+    "region": "Switzerland",
+    "regionNative": "Svizzera"
+  },
+  {
+    "code": "iu",
+    "name": "Inuktitut",
+    "native": "ᐃᓄᒃᑎᑐᑦ"
+  },
+  {
+    "code": "ja",
+    "name": "Japanese",
+    "native": "日本語"
+  },
+  {
+    "code": "jv",
+    "name": "Javanese",
+    "native": "Basa Jawa"
+  },
+  {
+    "code": "ka",
+    "name": "Georgian",
+    "native": "ქართული"
+  },
+  {
+    "code": "kg",
+    "name": "Kongo",
+    "native": "KiKongo"
+  },
+  {
+    "code": "ki",
+    "name": "Kikuyu",
+    "native": "Gĩkũyũ"
+  },
+  {
+    "code": "kj",
+    "name": "Kuanyama",
+    "native": "Kuanyama"
+  },
+  {
+    "code": "kk",
+    "name": "Kazakh",
+    "native": "Қазақша"
+  },
+  {
+    "code": "kl",
+    "name": "Greenlandic",
+    "native": "Kalaallisut"
+  },
+  {
+    "code": "km",
+    "name": "Cambodian",
+    "native": "ភាសាខ្មែរ"
+  },
+  {
+    "code": "kn",
+    "name": "Kannada",
+    "native": "ಕನ್ನಡ"
+  },
+  {
+    "code": "ko",
+    "name": "Korean",
+    "native": "한국어"
+  },
+  {
+    "code": "kr",
+    "name": "Kanuri",
+    "native": "Kanuri"
+  },
+  {
+    "code": "ks",
+    "name": "Kashmiri",
+    "native": "कश्मीरी / كشميري",
+    "rtl": 1
+  },
+  {
+    "code": "ku",
+    "name": "Kurdish",
+    "native": "Kurdî / كوردی",
+    "rtl": 1
+  },
+  {
+    "code": "kv",
+    "name": "Komi",
+    "native": "Коми"
+  },
+  {
+    "code": "kw",
+    "name": "Cornish",
+    "native": "Kernewek"
+  },
+  {
+    "code": "ky",
+    "name": "Kirghiz",
+    "native": "Kırgızca / Кыргызча"
+  },
+  {
+    "code": "la",
+    "name": "Latin",
+    "native": "Latina"
+  },
+  {
+    "code": "lb",
+    "name": "Luxembourgish",
+    "native": "Lëtzebuergesch"
+  },
+  {
+    "code": "lg",
+    "name": "Ganda",
+    "native": "Luganda"
+  },
+  {
+    "code": "li",
+    "name": "Limburgian",
+    "native": "Limburgs"
+  },
+  {
+    "code": "ln",
+    "name": "Lingala",
+    "native": "Lingála"
+  },
+  {
+    "code": "lo",
+    "name": "Laotian",
+    "native": "ລາວ / Pha xa lao"
+  },
+  {
+    "code": "lt",
+    "name": "Lithuanian",
+    "native": "Lietuvių"
+  },
+  {
+    "code": "lu",
+    "name": "Luba-Katanga",
+    "native": "Tshiluba"
+  },
+  {
+    "code": "lv",
+    "name": "Latvian",
+    "native": "Latviešu"
+  },
+  {
+    "code": "mg",
+    "name": "Malagasy",
+    "native": "Malagasy"
+  },
+  {
+    "code": "mh",
+    "name": "Marshallese",
+    "native": "Kajin Majel / Ebon"
+  },
+  {
+    "code": "mi",
+    "name": "Maori",
+    "native": "Māori"
+  },
+  {
+    "code": "mk",
+    "name": "Macedonian",
+    "native": "Македонски"
+  },
+  {
+    "code": "ml",
+    "name": "Malayalam",
+    "native": "മലയാളം"
+  },
+  {
+    "code": "mn",
+    "name": "Mongolian",
+    "native": "Монгол"
+  },
+  {
+    "code": "mo",
+    "name": "Moldovan",
+    "native": "Moldovenească"
+  },
+  {
+    "code": "mr",
+    "name": "Marathi",
+    "native": "मराठी"
+  },
+  {
+    "code": "ms",
+    "name": "Malay",
+    "native": "Bahasa Melayu"
+  },
+  {
+    "code": "mt",
+    "name": "Maltese",
+    "native": "bil-Malti"
+  },
+  {
+    "code": "my",
+    "name": "Burmese",
+    "native": "မြန်မာစာ"
+  },
+  {
+    "code": "na",
+    "name": "Nauruan",
+    "native": "Dorerin Naoero"
+  },
+  {
+    "code": "nb",
+    "name": "Norwegian Bokmål",
+    "native": "Norsk bokmål"
+  },
+  {
+    "code": "nd",
+    "name": "North Ndebele",
+    "native": "Sindebele"
+  },
+  {
+    "code": "ne",
+    "name": "Nepali",
+    "native": "नेपाली"
+  },
+  {
+    "code": "ng",
+    "name": "Ndonga",
+    "native": "Oshiwambo"
+  },
+  {
+    "code": "nl",
+    "name": "Dutch",
+    "native": "Nederlands"
+  },
+  {
+    "code": "nl-BE",
+    "name": "Dutch",
+    "native": "Nederlands",
+    "region": "Belgium",
+    "regionNative": "België"
+  },
+  {
+    "code": "nl-NL",
+    "name": "Dutch",
+    "native": "Nederlands",
+    "region": "Netherlands",
+    "regionNative": "Nederland"
+  },
+  {
+    "code": "nn",
+    "name": "Norwegian Nynorsk",
+    "native": "Norsk nynorsk",
+    "region": "Norway",
+    "regionNative": "Norway"
+  },
+  {
+    "code": "no",
+    "name": "Norwegian",
+    "native": "Norsk"
+  },
+  {
+    "code": "nr",
+    "name": "South Ndebele",
+    "native": "isiNdebele"
+  },
+  {
+    "code": "nv",
+    "name": "Navajo",
+    "native": "Diné bizaad"
+  },
+  {
+    "code": "ny",
+    "name": "Chichewa",
+    "native": "Chi-Chewa"
+  },
+  {
+    "code": "oc",
+    "name": "Occitan",
+    "native": "Occitan"
+  },
+  {
+    "code": "oj",
+    "name": "Ojibwa",
+    "native": "ᐊᓂᔑᓈᐯᒧᐎᓐ / Anishinaabemowin"
+  },
+  {
+    "code": "om",
+    "name": "Oromo",
+    "native": "Oromoo"
+  },
+  {
+    "code": "or",
+    "name": "Oriya",
+    "native": "ଓଡ଼ିଆ"
+  },
+  {
+    "code": "os",
+    "name": "Ossetian / Ossetic",
+    "native": "Иронау"
+  },
+  {
+    "code": "pa",
+    "name": "Panjabi / Punjabi",
+    "native": "ਪੰਜਾਬੀ / पंजाबी / پنجابي"
+  },
+  {
+    "code": "pi",
+    "name": "Pali",
+    "native": "Pāli / पाऴि"
+  },
+  {
+    "code": "pl",
+    "name": "Polish",
+    "native": "Polski"
+  },
+  {
+    "code": "ps",
+    "name": "Pashto",
+    "native": "پښتو",
+    "rtl": 1
+  },
+  {
+    "code": "pt",
+    "name": "Portuguese",
+    "native": "Português"
+  },
+  {
+    "code": "pt-BR",
+    "name": "Portuguese",
+    "native": "Português",
+    "region": "Brazil",
+    "regionNative": "Brasil"
+  },
+  {
+    "code": "pt-MO",
+    "name": "Portuguese",
+    "native": "Português",
+    "region": "Macao",
+    "regionNative": "Macau"
+  },
+  {
+    "code": "qu",
+    "name": "Quechua",
+    "native": "Runa Simi"
+  },
+  {
+    "code": "rm",
+    "name": "Raeto Romance",
+    "native": "Rumantsch"
+  },
+  {
+    "code": "rn",
+    "name": "Kirundi",
+    "native": "Kirundi"
+  },
+  {
+    "code": "ro",
+    "name": "Romanian",
+    "native": "Română"
+  },
+  {
+    "code": "ru-RU",
+    "name": "Russian",
+    "native": "Русский",
+    "region": "Russia",
+    "regionNative": "Россия"
+  },
+  {
+    "code": "ru-BY",
+    "name": "Russian",
+    "native": "Русский",
+    "region": "Belarus",
+    "regionNative": "Беларусь"
+  },
+  {
+    "code": "ru-KZ",
+    "name": "Russian",
+    "native": "Русский",
+    "region": "Kazakhstan",
+    "regionNative": "Казахстан"
+  },
+  {
+    "code": "ru-KG",
+    "name": "Russian",
+    "native": "Русский",
+    "region": "Kyrgyzstan",
+    "regionNative": "Кыргызстан"
+  },
+  {
+    "code": "ru-MD",
+    "name": "Russian",
+    "native": "Русский",
+    "region": "Moldova",
+    "regionNative": "Молдова"
+  },
+  {
+    "code": "ru-UA",
+    "name": "Russian",
+    "native": "Русский",
+    "region": "Ukraine",
+    "regionNative": "Украина"
+  },
+  {
+    "code": "rw",
+    "name": "Rwandi",
+    "native": "Kinyarwandi"
+  },
+  {
+    "code": "sa",
+    "name": "Sanskrit",
+    "native": "संस्कृतम्"
+  },
+  {
+    "code": "sc",
+    "name": "Sardinian",
+    "native": "Sardu"
+  },
+  {
+    "code": "sd",
+    "name": "Sindhi",
+    "native": "सिनधि"
+  },
+  {
+    "code": "se",
+    "name": "Northern Sami",
+    "native": "Sámegiella"
+  },
+  {
+    "code": "sg-CF",
+    "name": "Sango",
+    "native": "Sängö"
+  },
+  {
+    "code": "sh",
+    "name": "Serbo-Croatian",
+    "native": "Srpskohrvatski / Српскохрватски"
+  },
+  {
+    "code": "si-LK",
+    "name": "Sinhalese",
+    "native": "සිංහල"
+  },
+  {
+    "code": "sk-SK",
+    "name": "Slovak",
+    "native": "Slovenčina",
+    "region": "Slovakia",
+    "regionNative": "Slovensko"
+  },
+  {
+    "code": "sl-SI",
+    "name": "Slovenian",
+    "native": "Slovenščina",
+    "region": "Slovenia",
+    "regionNative": "Slovenija"
+  },
+  {
+    "code": "sm",
+    "name": "Samoan",
+    "native": "Gagana Samoa"
+  },
+  {
+    "code": "sn-ZW",
+    "name": "Shona",
+    "native": "chiShona",
+    "region": "Zimbabwe",
+    "regionNative": "Zimbabwe"
+  },
+  {
+    "code": "so-SO",
+    "name": "Somalia",
+    "native": "Soomaaliga",
+    "region": "Somalia",
+    "regionNative": "Soomaaliya"
+  },
+  {
+    "code": "sq-AL",
+    "name": "Albanian",
+    "native": "Shqip",
+    "region": "Albania",
+    "regionNative": "Shqipëria"
+  },
+  {
+    "code": "sq-MK",
+    "name": "Albanian",
+    "native": "Shqip",
+    "region": "North Macedonia",
+    "regionNative": "Maqedonia e Veriut"
+  },
+  {
+    "code": "sq-XK",
+    "name": "Albanian",
+    "native": "Shqip",
+    "region": "Kosovo",
+    "regionNative": "Kosova"
+  },
+  {
+    "code": "sr-BA",
+    "name": "Serbian",
+    "native": "Српски",
+    "region": "Bosnia & Herzegovina",
+    "regionNative": "Босна и Херцеговина"
+  },
+  {
+    "code": "sr-ME",
+    "name": "Serbian",
+    "native": "Српски",
+    "region": "Montenegro",
+    "regionNative": "Црна Гора"
+  },
+  {
+    "code": "sr-SR",
+    "name": "Serbian",
+    "native": "Српски",
+    "region": "Serbia",
+    "regionNative": "Србија"
+  },
+  {
+    "code": "sr-XK",
+    "name": "Serbian",
+    "native": "Српски",
+    "region": "Kosovo",
+    "regionNative": "Косово"
+  },
+  {
+    "code": "ss-SZ",
+    "name": "Swati",
+    "native": "SiSwati",
+    "region": "Eswatini",
+    "regionNative": "Eswatini"
+  },
+  {
+    "code": "ss-ZA",
+    "name": "Swati",
+    "native": "SiSwati",
+    "region": "South Africa",
+    "regionNative": "South Africa"
+  },
+  {
+    "code": "st-LS",
+    "name": "Southern Sotho",
+    "native": "Sesotho",
+    "region": "Lesotho",
+    "regionNative": "Lesotho"
+  },
+  {
+    "code": "st-ZA",
+    "name": "Southern Sotho",
+    "native": "Sesotho",
+    "region": "South Africa",
+    "regionNative": "South Africa"
+  },
+  {
+    "code": "su",
+    "name": "Sundanese",
+    "native": "Basa Sunda"
+  },
+  {
+    "code": "sv-AX",
+    "name": "Swedish",
+    "native": "Svenska",
+    "region": "Åland Islands",
+    "regionNative": "Åland"
+  },
+  {
+    "code": "sv-FI",
+    "name": "Swedish",
+    "native": "Svenska",
+    "region": "Finland",
+    "regionNative": "Finland"
+  },
+  {
+    "code": "sv-SE",
+    "name": "Swedish",
+    "native": "Svenska",
+    "region": "Sweden",
+    "regionNative": "Sverige"
+  },
+  {
+    "code": "sw-KE",
+    "name": "Swahili",
+    "native": "Kiswahili",
+    "region": "Kenya",
+    "regionNative": "Kenya"
+  },
+  {
+    "code": "sw-TZ",
+    "name": "Swahili",
+    "native": "Kiswahili",
+    "region": "Tanzania",
+    "regionNative": "Tanzania"
+  },
+  {
+    "code": "ta-IN",
+    "name": "Tamil",
+    "native": "தமிழ்",
+    "region": "India",
+    "regionNative": "இந்தியா"
+  },
+  {
+    "code": "ta-LK",
+    "name": "Tamil",
+    "native": "தமிழ்",
+    "region": "Sri Lanka",
+    "regionNative": "இலங்கை"
+  },
+  {
+    "code": "ta-MY",
+    "name": "Tamil",
+    "native": "தமிழ்",
+    "region": "Malaysia",
+    "regionNative": "மலேசியா"
+  },
+  {
+    "code": "ta-SG",
+    "name": "Tamil",
+    "native": "தமிழ்",
+    "region": "Singapore",
+    "regionNative": "சிங்கப்பூர்"
+  },
+  {
+    "code": "te-IN",
+    "name": "Telugu",
+    "native": "తెలుగు"
+  },
+  {
+    "code": "tg-TJ",
+    "name": "Tajik",
+    "native": "Тоҷикӣ",
+    "region": "Tajikistan",
+    "regionNative": "Точикистон"
+  },
+  {
+    "code": "th-TH",
+    "name": "Thai",
+    "native": "ไทย / Phasa Thai",
+    "region": "Thailand",
+    "regionNative": "ประเทศไทย"
+  },
+  {
+    "code": "ti-ER",
+    "name": "Tigrinya",
+    "native": "ትግርኛ",
+    "region": "Eritrea",
+    "regionNative": "ኤርትራ"
+  },
+  {
+    "code": "ti-ET",
+    "name": "Tigrinya",
+    "native": "ትግርኛ",
+    "region": "Ethiopia",
+    "regionNative": "ኢትዮጵያ"
+  },
+  {
+    "code": "tk-TM",
+    "name": "Turkmen",
+    "native": "Туркмен / تركمن",
+    "region": "Turkmenistan",
+    "regionNative": "Türkmenistan"
+  },
+  {
+    "code": "tl-PH",
+    "name": "Filipino / Tagalog",
+    "native": "Tagalog"
+  },
+  {
+    "code": "tn",
+    "name": "Tswana",
+    "native": "Setswana"
+  },
+  {
+    "code": "tn-BW",
+    "name": "Tswana",
+    "native": "Setswana",
+    "region": "Botswana",
+    "regionNative": "Botswana"
+  },
+  {
+    "code": "tn-ZA",
+    "name": "Tswana",
+    "native": "Setswana",
+    "region": "South Africa",
+    "regionNative": "South Africa"
+  },
+  {
+    "code": "to-TO",
+    "name": "Tonga",
+    "native": "Lea Faka-Tonga",
+    "region": "Tonga",
+    "regionNative": "Tongan"
+  },
+  {
+    "code": "tr-TR",
+    "name": "Turkish",
+    "native": "Türkçe",
+    "region": "Turkey",
+    "regionNative": "Türkiye"
+  },
+  {
+    "code": "ts-ZA",
+    "name": "Tsonga",
+    "native": "Xitsonga",
+    "region": "South Africa",
+    "regionNative": "South Africa"
+  },
+  {
+    "code": "tt-RU",
+    "name": "Tatar",
+    "native": "Tatarça",
+    "region": "Russia",
+    "regionNative": "Россия"
+  },
+  {
+    "code": "tw",
+    "name": "Twi",
+    "native": "Twi"
+  },
+  {
+    "code": "ty",
+    "name": "Tahitian",
+    "native": "Reo Mā`ohi"
+  },
+  {
+    "code": "ug-CN",
+    "name": "Uyghur",
+    "native": "Uyƣurqə / ئۇيغۇرچە",
+    "region": "China Mainland",
+    "regionNative": "中国大陆"
+  },
+  {
+    "code": "uk-UA",
+    "name": "Ukrainian",
+    "native": "Українська",
+    "region": "Ukraine",
+    "regionNative": "Україна"
+  },
+  {
+    "code": "ur-IN",
+    "name": "Urdu",
+    "native": "اردو",
+    "rtl": 1,
+    "region": "India",
+    "regionNative": "انڈیا"
+  },
+  {
+    "code": "ur-PK",
+    "name": "Urdu",
+    "native": "اردو",
+    "rtl": 1,
+    "region": "Pakistan",
+    "regionNative": "پاکستان"
+  },
+  {
+    "code": "uz-UZ",
+    "name": "Uzbek",
+    "native": "Ўзбек",
+    "region": "Uzbekistan",
+    "regionNative": "Ўзбекистон"
+  },
+  {
+    "code": "ve-ZA",
+    "name": "Venda",
+    "native": "Tshivenḓa",
+    "region": "South Africa",
+    "regionNative": "South Africa"
+  },
+  {
+    "code": "vi-VN",
+    "name": "Vietnamese",
+    "native": "Tiếng Việt",
+    "region": "Vietnam",
+    "regionNative": "Việt Nam"
+  },
+  {
+    "code": "vo",
+    "name": "Volapük",
+    "native": "Volapük"
+  },
+  {
+    "code": "wa-BE",
+    "name": "Walloon",
+    "native": "Walon",
+    "region": "Belgium",
+    "regionNative": "België"
+  },
+  {
+    "code": "wo",
+    "name": "Wolof",
+    "native": "Wollof"
+  },
+  {
+    "code": "wo-SG",
+    "name": "Wolof",
+    "native": "Wollof",
+    "region": "Senegal",
+    "regionNative": "Senegal"
+  },
+  {
+    "code": "xh-ZA",
+    "name": "Xhosa",
+    "native": "isiXhosa",
+    "region": "South Africa",
+    "regionNative": "Mzantsi Afrika"
+  },
+  {
+    "code": "yi",
+    "name": "Yiddish",
+    "native": "ייִדיש",
+    "rtl": 1
+  },
+  {
+    "code": "yo",
+    "name": "Yoruba",
+    "native": "Yorùbá"
+  },
+  {
+    "code": "yo-NG",
+    "name": "Yoruba",
+    "native": "Yorùbá",
+    "region": "Nigeria",
+    "regionNative": "Nigeria"
+  },
+  {
+    "code": "za",
+    "name": "Zhuang",
+    "native": "Cuengh / Tôô / 壮语"
+  },
+  {
+    "code": "zh-CN",
+    "name": "Chinese",
+    "native": "中文",
+    "region": "China Mainland",
+    "regionNative": "中国大陆"
+  },
+  {
+    "code": "zh-HK",
+    "name": "Chinese",
+    "native": "中文",
+    "region": "Hong Kong",
+    "regionNative": "香港"
+  },
+  {
+    "code": "zh-MO",
+    "name": "Chinese",
+    "native": "中文",
+    "region": "Macao",
+    "regionNative": "澳门"
+  },
+  {
+    "code": "zh-SG",
+    "name": "Chinese",
+    "native": "中文",
+    "region": "Singapore",
+    "regionNative": "新加坡"
+  },
+  {
+    "code": "zh-TW",
+    "name": "Chinese",
+    "native": "中文",
+    "region": "Taiwan",
+    "regionNative": "台湾"
+  },
+  {
+    "code": "zu-ZA",
+    "name": "Zulu",
+    "native": "isiZulu",
+    "region": "South Africa",
+    "regionNative": "Iningizimu Afrika"
+  }
+]
