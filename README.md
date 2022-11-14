@@ -4,11 +4,11 @@ Repositories of World spoken languages.
 
 ## Languages included
 
-Repository consist of languages stored as `Json` format in the `languages` folder.
+The repository consists of languages stored in `JSON` format in the `dist` folder.
 
-Including codes as:
-- [639-1](https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code)
-- [Unicode BCP 47 locale identifier](https://www.unicode.org/reports/tr35/#Canonical_Unicode_Locale_Identifiers) [Table](https://www.fincher.org/Utilities/CountryLanguageList.shtml) [Language designators with regions](https://lingohub.com/developers/supported-locales/language-designators-with-regions) WIP
+Including codes such as:
+- `dist/639-1.json` [639-1](https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code)
+- `dist/bcp-47.json` [Unicode BCP 47 locale identifier](https://www.unicode.org/reports/tr35/#Canonical_Unicode_Locale_Identifiers) [Table](https://www.fincher.org/Utilities/CountryLanguageList.shtml) [Language designators with regions](https://lingohub.com/developers/supported-locales/language-designators-with-regions) WIP
 
 ## Naming convention
 
